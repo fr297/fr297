@@ -6,11 +6,11 @@ I build modern, responsive interfaces and love bringing them to life with smooth
 ---
 
 ## 🛠️ Tech Stack
-💻 Frontend: HTML5, CSS3, JavaScript 
-⚛️ Frameworks: React, Vite  
-🎨 Styling: SASS, CSS Modules 
-🎞️ Animations: SVG, GSAP, CSS Animations  
-🧰 Tools: Git, GitHub, Figma, Canva, Chrome DevTools  
+- 💻 Frontend: HTML5, CSS3, JavaScript 
+- ⚛️ Frameworks: React, Vite  
+- 🎨 Styling: SASS, CSS Modules 
+- 🎞️ Animations: SVG, GSAP, CSS Animations  
+- 🧰 Tools: Git, GitHub, Figma, Canva, Chrome DevTools  
 
 ---
 
