@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey there! I'm Alex  
+### 🌟 Frontend Developer | UI Enthusiast | SVG Animation Lover
 
-<!--
-**fr297/fr297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modern, responsive interfaces and love bringing them to life with smooth animations — especially using SVG, CSS, and GSAP. Always learning, always creating!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+💻 Frontend: HTML5, CSS3, JavaScript 
+⚛️ Frameworks: React, Vite  
+🎨 Styling: SASS, CSS Modules 
+🎞️ Animations: SVG, GSAP, CSS Animations  
+🧰 Tools: Git, GitHub, Figma, Canva, Chrome DevTools  
+
+---
+
+## 📌 About Me
+- 💡 I love making UI feel intuitive, smooth, and alive  
+- 📚 Improving daily in React, TypeScript & app structure  
+- 📍 Based in Poland 🇵🇱  
+- 🔎 Open to new opportunities, internships & collaborations  
+
+---
+
+## 📫 Let’s Connect!
+📧 Email: fr.280907@gmail.com 
+🔗 LinkedIn: [https://linkedin.com/in/username  ](https://www.linkedin.com/in/aleksandr-frolov-410a78377/)
+
+---
+
+## ⭐ Thanks for stopping by!  
+If you like my work, feel free to ⭐️ my repos!
