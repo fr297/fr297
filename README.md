@@ -26,7 +26,3 @@ I build modern, responsive interfaces and love bringing them to life with smooth
 📧 Email: fr.280907@gmail.com 
 🔗 LinkedIn: [https://linkedin.com/in/username  ](https://www.linkedin.com/in/aleksandr-frolov-410a78377/)
 
----
-
-## ⭐ Thanks for stopping by!  
-If you like my work, feel free to ⭐️ my repos!
