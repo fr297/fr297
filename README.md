@@ -6,7 +6,7 @@ I build modern, responsive interfaces and love bringing them to life with smooth
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Frontend: HTML5, CSS3, JavaScript, React, Vite
+- ⚛️ Frontend: HTML5, CSS3, JavaScript, React, Vite
 - 🎨 Styling: SASS, CSS, Less
 - 🎞️ Animations: SVG, CSS Animations  
 - 📲 Tools: Git, GitHub, Figma, Canva, Chrome DevTools  
@@ -16,7 +16,7 @@ I build modern, responsive interfaces and love bringing them to life with smooth
 ## 📌 About Me
 - 💡 I love making UI feel intuitive, smooth, and alive  
 - 📚 Improving daily in React, TypeScript & app structure  
-- 📍Based in Poland 🇵🇱  
+- 🌍 Based in Poland 🇵🇱  
 - 🔎 Open to new opportunities, internships & collaborations  
 
 ---
