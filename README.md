@@ -9,11 +9,9 @@ I build modern, responsive interfaces and love bringing them to life with smooth
 
 ---
 
-## 📌 About Me
-- 💡 I love making UI feel intuitive, smooth, and alive  
-- 📚 Improving daily in React, TypeScript & app structure  
-- 🌍 Based in Poland 🇵🇱  
-- 🔎 Open to new opportunities, internships & collaborations  
+### Languages
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
