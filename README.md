@@ -1,4 +1,7 @@
 <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/c1fd75f3-d431-4273-93d2-1deae59c6d3a" />
+
+---
+
 # 🤝Hey there! I'm Alex  
 ### 💻 Frontend Developer | UI Enthusiast | SVG Animation Lover
 
@@ -6,11 +9,9 @@ I build modern, responsive interfaces and love bringing them to life with smooth
 
 ---
 
-## 🛠️ Tech Stack
-- ⚛️ Frontend: HTML5, CSS3, JavaScript, React, Vite
-- 🎨 Styling: CSS, SASS, LESS
-- 🎞️ Animations: SVG, CSS Animations  
-- 📲 Tools: Git, GitHub, Figma, Canva, Chrome DevTools  
+Langueges
+<img width="120" height="10" alt="HTML5" src="https://github.com/user-attachments/assets/9c37a836-8685-432a-be7e-a2069ae18232" />
+
 
 ---
 
