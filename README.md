@@ -9,6 +9,17 @@ I build modern, responsive interfaces and love bringing them to life with smooth
 
 ---
 
+## 📬 Contact & Social
+
+<p align="center">
+<a href="mailto:fr.280907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: fr.280907@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/dimetrix/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Dmitry Selikhov"></a>
+<a href="https://t.me/idimetrix"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @idimetrix"></a>
+</p>
+
+<p align="center"><em>I am open to new opportunities and collaborations.</em></p>
+
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
