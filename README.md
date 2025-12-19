@@ -2,14 +2,14 @@
 
 ---
 
-# 🤝Hey there! I'm Alex  
+# 🤝 Hey there! I'm Alex  
 ### 💻 Frontend Developer | UI Enthusiast | SVG Animation Lover
 
 I build modern, responsive interfaces and love bringing them to life with smooth animations — especially using SVG and CSS. Always learning, always creating!
 
 ---
 
-## 📬 Contact & Social
+## 📮 Contact & Social
 
 <p align="center">
 <a href="mailto:fr.280907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: fr.280907@gmail.com"/></a>
