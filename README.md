@@ -13,12 +13,13 @@ I build modern, responsive interfaces and love bringing them to life with smooth
 
 <p align="center">
 <a href="mailto:fr.280907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: fr.280907@gmail.com"/></a>
-<a href="https://www.linkedin.com/in/dimetrix/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Dmitry Selikhov"></a>
-<a href="https://t.me/idimetrix"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @idimetrix"></a>
+<a href="https://www.linkedin.com/in/AleksandrFrolov2809/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Aleksandr Frolov"></a>
+<a href="https://t.me/alexFrxx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @alexFrxx"></a>
 </p>
 
-<p align="center"><em>I am open to new opportunities and collaborations.</em></p>
+<p align="center"><em>Let’s build something meaningful together.</em></p>
 
+---
 
 ### Languages
 
@@ -47,9 +48,3 @@ I build modern, responsive interfaces and love bringing them to life with smooth
 ### Development Tools & IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📫 Let’s Connect!
-📮Email: fr.280907@gmail.com 
- 🔗 LinkedIn: [https://linkedin.com/in/username  ](https://www.linkedin.com/in/aleksandr-frolov-410a78377/)
