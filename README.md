@@ -49,4 +49,6 @@ I build modern, responsive interfaces and love bringing them to life with smooth
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
 <p align="center"><em>Thank you for visiting my profile — the projects are listed below🔻</em></p>
