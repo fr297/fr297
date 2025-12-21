@@ -5,7 +5,9 @@
 # 🤝 Hey there! I'm Alex  
 ### 💻 Frontend Developer | UI Enthusiast | SVG Animation Lover
 
-I build modern, responsive interfaces and love bringing them to life with smooth animations — especially using SVG and CSS. Always learning, always creating!
+From an early age, I’ve been passionate about creating beautiful and functional websites. I started with marketing and landing pages on Tilda and Taplink, which helped me understand the value of design and user experience.
+
+At 16, I began studying frontend development, and since then I’ve been fully focused on web development. I’m constantly learning new things, improving my skills, and enjoying the process of building high-quality interfaces.
 
 ---
 
