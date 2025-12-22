@@ -47,6 +47,7 @@ At 16, I began studying frontend development, and since then I’ve been fully f
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)
+[Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 
 ### Development Tools & IDEs
 
