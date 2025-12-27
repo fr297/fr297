@@ -14,16 +14,15 @@ At 16, I began studying frontend development, and since then I’ve been fully f
 ## 📮 Contact & Social
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AleksandrFrolov2809/"><img width="85" height="81" alt="linkedin" src="https://github.com/user-attachments/assets/9311fa4b-7baa-42a4-a3bd-e6967af49b27" />
+<a href="https://www.linkedin.com/in/AleksandrFrolov2809/"><img width="85" height="81" alt="linkedin" src="https://github.com/user-attachments/assets/9311fa4b-7baa-42a4-a3bd-e6967af49b27" alt="Linkedin: AleksandrFrolov2809" />
 </a>
-  <a href="mailto:fr.280907@gmail.com"><img width="85" height="81" alt="Gmail" src="https://github.com/user-attachments/assets/ebd30b7a-d75b-442d-91d6-d6888fbf501e" />
+  <a href="mailto:fr.280907@gmail.com"><img width="85" height="81" alt="Gmail" src="https://github.com/user-attachments/assets/ebd30b7a-d75b-442d-91d6-d6888fbf501e" alt="Gmail: fr.280907@gmail.com" />
 </a>
-<a href="https://t.me/alexFrxx"><img width="85" height="81" alt="telegram" src="https://github.com/user-attachments/assets/ca9aa8da-7072-44b3-bb3a-722f68ac6af2" />
+<a href="https://t.me/alexFrxx"><img width="85" height="81" alt="telegram" src="https://github.com/user-attachments/assets/ca9aa8da-7072-44b3-bb3a-722f68ac6af2" alt="Telegram: alexFrxx"/>
 </a>
-  <a href="https://www.instagram.com/craft.the.web/"><img width="81" height="81" alt="instagram" src="https://github.com/user-attachments/assets/3dd022af-7f6e-4040-a2ab-463aaa03b746" />
+  <a href="https://www.instagram.com/craft.the.web/"><img width="81" height="81" alt="instagram" src="https://github.com/user-attachments/assets/3dd022af-7f6e-4040-a2ab-463aaa03b746" alt="Instagram: craft_the_web"/>
 </a>
 </p>
-
 <p align="center"><em>Let’s build something meaningful together.</em></p>
 
 ---
