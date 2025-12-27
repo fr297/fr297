@@ -19,6 +19,10 @@ At 16, I began studying frontend development, and since then I’ve been fully f
 </a>
 <a href="https://t.me/alexFrxx"><img width="85" height="81" alt="telegram" src="https://github.com/user-attachments/assets/ca9aa8da-7072-44b3-bb3a-722f68ac6af2" />
 </a>
+
+<a href="https://mail.google.com/mail/u/0/#inbox"><img width="85" height="81" alt="Gmail" src="https://github.com/user-attachments/assets/ebd30b7a-d75b-442d-91d6-d6888fbf501e" />
+
+</a>
 </p>
 
 <p align="center"><em>Let’s build something meaningful together.</em></p>
