@@ -17,7 +17,8 @@ At 16, I began studying frontend development, and since then I’ve been fully f
 <a href="https://www.linkedin.com/in/AleksandrFrolov2809/"><img width="85" height="81" alt="linkedin" src="https://github.com/user-attachments/assets/9311fa4b-7baa-42a4-a3bd-e6967af49b27" />
 
 </a>
-<a href="https://t.me/alexFrxx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @alexFrxx"></a>
+<a href="https://t.me/alexFrxx"><img width="85" height="81" alt="telegram" src="https://github.com/user-attachments/assets/ca9aa8da-7072-44b3-bb3a-722f68ac6af2" />
+</a>
 </p>
 
 <p align="center"><em>Let’s build something meaningful together.</em></p>
