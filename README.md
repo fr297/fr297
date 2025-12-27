@@ -22,7 +22,7 @@ At 16, I began studying frontend development, and since then I’ve been fully f
 </a>
   <a href="https://www.instagram.com/craft.the.web/"><img width="81" height="81" alt="instagram" src="https://github.com/user-attachments/assets/3dd022af-7f6e-4040-a2ab-463aaa03b746" alt="Instagram: craft_the_web"/>
 </a>
-  <a href=""><img width="85" height="81" alt="github" src="https://github.com/user-attachments/assets/7c82efa4-05df-4c6d-8d2c-6d53214b6cb9" />
+  <a href="https://github.com/fr297" alt="Github: fr297"><img width="85" height="81" alt="github" src="https://github.com/user-attachments/assets/7c82efa4-05df-4c6d-8d2c-6d53214b6cb9" />
 </a>
 </p>
 <p align="center"><em>Let’s build something meaningful together.</em></p>
