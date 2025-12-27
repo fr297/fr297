@@ -20,6 +20,8 @@ At 16, I began studying frontend development, and since then I’ve been fully f
 </a>
 <a href="https://t.me/alexFrxx"><img width="85" height="81" alt="telegram" src="https://github.com/user-attachments/assets/ca9aa8da-7072-44b3-bb3a-722f68ac6af2" />
 </a>
+  <a href="https://www.instagram.com/craft.the.web/"><img width="81" height="81" alt="instagram" src="https://github.com/user-attachments/assets/3dd022af-7f6e-4040-a2ab-463aaa03b746" />
+</a>
 </p>
 
 <p align="center"><em>Let’s build something meaningful together.</em></p>
