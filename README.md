@@ -1,4 +1,5 @@
-<a href="https://www.linkedin.com/in/AleksandrFrolov2809"><img width="1584" height="760" alt="banners" src="https://github.com/user-attachments/assets/63dc2d60-56ad-4483-9c02-4c8635dd0858" /></a>
+<a href="https://www.linkedin.com/in/AleksandrFrolov2809"><img width="1584" height="396" alt="banner-black" src="https://github.com/user-attachments/assets/cabc9473-a7ee-4bf9-9fba-0a2f2df30110" />
+</a>
 
 ---
 
