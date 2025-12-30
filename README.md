@@ -9,6 +9,8 @@ From an early age, I’ve been passionate about creating beautiful and functiona
 
 At 16, I began studying frontend development, and since then I’ve been fully focused on web development. I’m constantly learning new things, improving my skills, and enjoying the process of building high-quality interfaces.
 
+In an era where AI writes code, it’s important to think not only about how it works, but also about how people use it. I pay special attention to usability, simplicity, and user experience.
+
 ---
 
 ## 📮 Contact & Social
