@@ -24,6 +24,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 <a href="https://t.me/alexFrxx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @alexFrxx"></a>
 </p>
 <p align="center"><em>Let’s build something meaningful together.</em></p>
+
 ---
 
 ### Languages
