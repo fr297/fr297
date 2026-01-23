@@ -59,4 +59,33 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
+## 📍 Location
+
+<!-- Cracow Geographic Area -->
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0,
+        "name": "Kraków Metropolitan Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [19.7922, 49.9679],
+            [20.2170, 50.1260]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
 <p align="center"><em>Thank you for visiting my profile — the projects are listed below🔻</em></p>
