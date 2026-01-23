@@ -89,5 +89,5 @@ In an era where AI writes code, it’s important to think not only about how it 
   ]
 }
 ```
-
+---
 <p align="center"><em>Thank you for visiting my profile — the projects are listed below🔻</em></p>
