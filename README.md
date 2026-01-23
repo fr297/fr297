@@ -27,6 +27,8 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
+## 💻 Technology Stack
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
