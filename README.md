@@ -61,10 +61,16 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
-## Github Stats
+## 📈 Github Stats:
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr297&theme=github_dark)
-
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr297&theme=tokyonight"
+  width="675"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=tokyonight"
+  width="330"
+/>
 
 ---
 
