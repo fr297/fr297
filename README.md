@@ -64,12 +64,12 @@ In an era where AI writes code, it’s important to think not only about how it 
 ## 📈 Github Stats:
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr297&theme=tokyonight"
-  width="500"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=tokyonight"
+  width="250"
 />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=tokyonight"
-  width="300"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr297&theme=tokyonight"
+  width="520"
 />
 
 ---
