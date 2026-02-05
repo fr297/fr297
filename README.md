@@ -65,11 +65,11 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr297&theme=tokyonight"
-  width="420"
+  width="500"
 />
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=tokyonight"
-  width="220"
+  width="300"
 />
 
 ---
