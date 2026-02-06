@@ -71,8 +71,8 @@ In an era where AI writes code, it’s important to think not only about how it 
 />
 
 <p align="center">
-<a href="https://github.com/fr297/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&theme=react&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+<a href="https://github.com/fr297/github-readme-activity-graph#rogue">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&theme=rogue&area=true&hide_border=true#rogue" width="100%">
 </a>
 </p>
 
