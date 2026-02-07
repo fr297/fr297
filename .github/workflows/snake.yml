@@ -10,7 +10,8 @@ on:
 
     - cron: "0 0 * * *"
 
-
+permissions:
+  contents: write
 
   # Allow manual triggering of the workflow
 
