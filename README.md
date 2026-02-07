@@ -75,7 +75,6 @@ In an era where AI writes code, it’s important to think not only about how it 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&theme=merko&area=true&hide_border=true#merko" width="100%">
 </a>
 </p>
-
 ![snake gif](https://github.com/fr297/fr297/blob/output/github-snake-dark.svg)
 
 ---
