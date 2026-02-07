@@ -78,6 +78,14 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/fr297/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
 ## 📍 Location
 
 <!-- Cracow Geographic Area -->
