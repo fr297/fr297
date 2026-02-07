@@ -76,9 +76,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 </a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/fr297/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+![snake gif](https://github.com/fr297/fr297/blob/output/github-snake-dark.svg)
 
 ---
 
