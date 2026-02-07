@@ -62,11 +62,11 @@ In an era where AI writes code, it’s important to think not only about how it 
 ## 📈 Github Stats:
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=merko"
   width="275"
 />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr297&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr297&theme=merko"
   width="565"
 />
 
