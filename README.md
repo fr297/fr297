@@ -86,6 +86,13 @@ In an era where AI writes code, it’s important to think not only about how it 
 ## ⏱️ Cumulative Coding Time
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
