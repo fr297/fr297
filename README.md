@@ -83,6 +83,13 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
+## ⏱️ Cumulative Coding Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 📍 Location
 
 <!-- Cracow Geographic Area -->
