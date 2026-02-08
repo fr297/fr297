@@ -14,7 +14,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}  # <-- обязательно, иначе 403
           BLOCKS: "░▒▓█"
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           LANG_COUNT: 10
