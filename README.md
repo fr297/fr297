@@ -83,7 +83,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
-## ⏱️ Cumulative Coding Time
+## ⏳ Time Invested in Coding
 
 <!--START_SECTION:waka-->
 
