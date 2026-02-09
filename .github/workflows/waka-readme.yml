@@ -18,3 +18,5 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           LANG_COUNT: 10
+          COMMITTER_NAME: "github-actions[bot]"
+          COMMITTER_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
