@@ -88,9 +88,11 @@ In an era where AI writes code, it’s important to think not only about how it 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 9 mins
 
-No activity tracked
+SCSS         1 hr 50 mins    █████████████████████▒░░░   85.89 %
+HTML         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 ```
 
 <!--END_SECTION:waka-->
