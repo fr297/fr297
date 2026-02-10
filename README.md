@@ -90,9 +90,9 @@ In an era where AI writes code, it’s important to think not only about how it 
 ```txt
 Total Time: 2 hrs 9 mins
 
-SCSS         1 hr 50 mins    █████████████████████▒░░░   85.89 %
-HTML         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+SCSS         1 hr 51 mins    █████████████████████▒░░░   85.98 %
+HTML         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 ```
 
 <!--END_SECTION:waka-->
