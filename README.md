@@ -88,11 +88,11 @@ In an era where AI writes code, it’s important to think not only about how it 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 56 mins
+Total Time: 9 hrs 21 mins
 
-SCSS         6 hrs 2 mins    █████████████████░░░░░░░░   67.67 %
-JavaScript   1 hr 59 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
-HTML         53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+SCSS         6 hrs 2 mins    ████████████████░░░░░░░░░   64.59 %
+JavaScript   2 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+HTML         54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
 ```
 
 <!--END_SECTION:waka-->
