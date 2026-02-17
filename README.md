@@ -72,8 +72,8 @@ In an era where AI writes code, it’s important to think not only about how it 
 </div>
 
 <p align="center">
-<a href="https://github.com/fr297/github-readme-activity-graph#synthwave">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&theme=synthwave&area=true&hide_border=true#synthwave" width="100%">
+<a href="https://github.com/fr297/github-readme-activity-graph#onedark">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&theme=onedarke&area=true&hide_border=true#onedark" width="100%">
 </a>
 </p>
 
