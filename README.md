@@ -72,8 +72,8 @@ In an era where AI writes code, it’s important to think not only about how it 
 </div>
 
 <p align="center">
-<a href="https://github.com/fr297/github-readme-activity-graph#merko">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&theme=merko&area=true&hide_border=true#merko" width="100%">
+<a href="https://github.com/fr297/github-readme-activity-graph#synthwave">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&theme=synthwave&area=true&hide_border=true#synthwave" width="100%">
 </a>
 </p>
 
@@ -83,8 +83,6 @@ In an era where AI writes code, it’s important to think not only about how it 
   
 ![snake gif](https://github.com/fr297/fr297/blob/output/github-snake-dark.svg)
 </div>
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fr297)
 
 ---
 
