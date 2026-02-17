@@ -59,7 +59,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
-## 📈 Github Stats:
+## 📈 Github Stats
 <div align="center">
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=merko"
@@ -78,7 +78,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 </p>
 
 ---
-Github Activity Graph
+## 🎯 Github Activity Graph
 <!-- Snake -->
 <div align="center">
   
