@@ -70,16 +70,20 @@ In an era where AI writes code, it’s important to think not only about how it 
   width="565"
 />
 </div>
-<!-- Snake -->
-<div align="center">
-  
-![snake gif](https://github.com/fr297/fr297/blob/output/github-snake-dark.svg)
-</div>
+
 <p align="center">
 <a href="https://github.com/fr297/github-readme-activity-graph#merko">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&theme=merko&area=true&hide_border=true#merko" width="100%">
 </a>
 </p>
+
+---
+Github Activity Graph
+<!-- Snake -->
+<div align="center">
+  
+![snake gif](https://github.com/fr297/fr297/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
