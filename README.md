@@ -62,18 +62,18 @@ In an era where AI writes code, it’s important to think not only about how it 
 ## 📈 Github Stats
 <div align="center">
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=merko"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=highcontrast"
   width="275"
 />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr297&theme=merko"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr297&theme=highcontrast"
   width="565"
 />
 </div>
 
 <p align="center">
-<a href="https://github.com/fr297/github-readme-activity-graph#onedark">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&theme=onedarke&area=true&hide_border=true#onedark" width="100%">
+<a href="https://github.com/fr297/github-readme-activity-graph#merko">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&theme=merko&area=true&hide_border=true#merko" width="100%">
 </a>
 </p>
 
