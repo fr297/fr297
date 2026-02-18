@@ -73,7 +73,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 <p align="center">
 <a href="https://github.com/fr297/github-readme-activity-graph#high-contrast">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&area_color=330000&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&bg_color=000000&color=ff0000&line=ff0000&point=ff0000&area=true&area_color=330000&hide_border=true" width="100%">
 </a>
 </p>
 
