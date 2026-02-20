@@ -58,7 +58,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-0B3D2E?style=for-the-badge&logo=x&logoColor=white)
 
 ### Development Tools & IDEs
 
