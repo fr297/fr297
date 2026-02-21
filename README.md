@@ -17,6 +17,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/AleksandrFrolov2809/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Aleksandr Frolov"></a>
+<a href="https://www.instagram.com/alexfrxx?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @alexFrxx"></a>
 <a href="mailto:fr.280907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: fr.280907@gmail.com"/></a>
 <a href="https://x.com/AleksandrFr2007"><img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter): @AleksandrFr2007"></a>
 <a href="https://t.me/alexFrxx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @alexFrxx"></a>
