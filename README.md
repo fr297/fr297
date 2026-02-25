@@ -86,7 +86,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 <div align="center">
 <a href="https://github.com/fr297/github-readme-activity-graph#highcontrast">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&bg_color=000000&color=ffffff&line=FF00E1&point=00ffff&area=true&area_color=053300&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&bg_color=00000f&color=ffffff&line=FF00E1&point=00ffff&area=true&area_color=053300&hide_border=true" width="100%">
 </a>
   
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
