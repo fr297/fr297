@@ -92,6 +92,8 @@ In an era where AI writes code, it’s important to think not only about how it 
 ![snake gif](https://github.com/fr297/fr297/blob/output/github-snake-dark.svg)
 </div>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ---
 
 ## ⏳ Time Invested in Coding
