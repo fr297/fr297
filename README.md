@@ -92,7 +92,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 ![snake gif](https://github.com/fr297/fr297/blob/output/github-snake-dark.svg)
 </div>
 
-![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
