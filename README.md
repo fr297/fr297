@@ -70,7 +70,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 ## 📈 Github Stats
 <div align="center">
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=highcontrast"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=highcontrast&cache_bust=2026-02-25"
   width="275"
 />
 <img
