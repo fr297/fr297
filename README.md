@@ -67,7 +67,12 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
-## 📈 Github Stats
+## 📈 Github Stats & Activity Graph
+<div align="center">
+  
+![snake gif](https://github.com/fr297/fr297/blob/output/github-snake-dark.svg)
+</div>
+
 <div align="center">
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=highcontrast&cache_bust=2026-02-25"
@@ -84,13 +89,6 @@ In an era where AI writes code, it’s important to think not only about how it 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&bg_color=000000&color=ffffff&line=ffff00&point=00ffff&area=true&area_color=053300&hide_border=true" width="100%">
 </a>
 </p>
-
----
-## 🎯 Github Activity Graph
-<div align="center">
-  
-![snake gif](https://github.com/fr297/fr297/blob/output/github-snake-dark.svg)
-</div>
 
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
