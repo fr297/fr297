@@ -3,7 +3,7 @@
 </a>
 
 # 🤝 Hey there! I'm Alex  
-### 💻 Frontend Developer | UI & UX Enthusiast
+### 💻 Frontend Developer | UI & UX Enthusiast 
 
 From an early age, I’ve been passionate about creating beautiful and functional websites. I started with marketing and landing pages on Tilda and Taplink, which helped me understand the value of design and user experience.
 
