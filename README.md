@@ -112,8 +112,20 @@ Markdown      1 min                 ░░░░░░░░░░░░░░�
 Text          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Other         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
-
 <!--END_SECTION:waka-->
+
+---
+
+### 📁 Project Structure
+
+```
+.
+├── .github/            # GitHub Actions workflows & configs
+├── images/             # Assets, banners, and graphics
+├── profile-3d-contrib/ # 3D contribution visualizations
+├── package.json        # Project metadata & dependencies
+└── README.md           # This file
+```
 
 ---
 
