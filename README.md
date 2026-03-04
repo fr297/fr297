@@ -94,7 +94,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
-## ⏳ Time Invested in Coding
+### ⏳ Time Invested in Coding
 
 <!--START_SECTION:waka-->
 
@@ -116,7 +116,7 @@ Other         0 secs                ░░░░░░░░░░░░░░�
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 .
