@@ -118,6 +118,7 @@ Other         0 secs                ░░░░░░░░░░░░░░�
 ├── .github/            # GitHub Actions workflows & configs
 ├── images/             # Assets, banners, and graphics
 ├── profile-3d-contrib/ # 3D contribution visualizations
+├── package.json        # Project metadata & dependencies
 └── README.md           # This file
 ```
 
