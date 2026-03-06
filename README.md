@@ -79,7 +79,7 @@ In an era where AI writes code, it’s important to think not only about how it 
   width="275"
 />
   
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfrxx&theme=highcontrast)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfrxx&theme=merko)
 </div>
 
 <div align="center">
