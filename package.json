@@ -1,0 +1,49 @@
+{
+  "name": "alexfrxx",
+  "version": "1.0.0",
+  "description": "Frontend Developer | UI & UX Enthusiast",
+  "keywords": [
+    "front-end",
+    "alexfrxx",
+    "aleksandr-frolov",
+    "portfolio",
+    "full-stack",
+    "html",
+    "css",
+    "scss",
+    "webpack",
+    "vite",
+    "nextjs",
+    "react",
+    "nodejs",
+    "typescript",
+    "javascript"
+  ],
+  "homepage": "https://github.com/alexfrxx",
+  "author": {
+    "name": "Aleksandr Frolov",
+    "email": "fr.280907@gmail.com",
+    "url": "https://alexfrxx.github.io/MyCV/"
+  },
+  "contributors": [
+    {
+      "name": "Aleksandr Frolov",
+      "email": "fr.280907@gmail.com",
+      "url": "https://github.com/alexfrxx"
+    }
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/AleksandrFrolov2809",
+    "twitter": "https://x.com/AleksandrFr2007",
+    "instagram": "https://bit.ly/alexfrxx",
+    "telegram": "https://t.me/alexFrxx",
+    "github": "https://github.com/alexfrxx",
+    "website": "https://alexfrxx.github.io/MyCV/"
+  },
+  "funding": [
+    {
+      "type": "website",
+      "url": "https://alexfrxx.github.io/MyCV/"
+    }
+  ]
+}
