@@ -77,7 +77,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=000000&border_color=000000&title_color=FFE600&icon_color=DBB7FF&text_color=ffffff"
     width="56%"
   />
   <img 
