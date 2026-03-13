@@ -62,6 +62,11 @@ In an era where AI writes code, it’s important to think not only about how it 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-0B3D2E?style=for-the-badge&logo=x&logoColor=white)
 
+### CMS & Web Builders
+
+![Tilda](https://img.shields.io/badge/Tilda-000000?style=for-the-badge&logo=tilda&logoColor=white)
+![Taplink](https://img.shields.io/badge/Taplink-FF5C00?style=for-the-badge&logo=taplink&logoColor=white)
+
 ### Development Tools & IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
