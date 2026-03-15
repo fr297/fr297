@@ -76,7 +76,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ## Certificates
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; ">
   <img src="./images/Certificate1.jpg" width="30%">
   <img src="./images/Certificate2.jpg" width="30%">
 </div>
