@@ -76,10 +76,10 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ## Certificates
 
-<div align="center" style="display: flex; ">
-  <img src="./images/Certificate1.jpg" width="30%">
-  <img src="./images/Certificate2.jpg" width="30%">
-  <img src="./images/Certificate1.jpg" width="30%">
+<div align="center">
+  <img src="./images/Certificate1.jpg" width="32%">
+  <img src="./images/Certificate2.jpg" width="32%">
+  <img src="./images/Certificate1.jpg" width="32%">
 </div>
 
 ---
