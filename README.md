@@ -76,17 +76,6 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
-## 🎓 Certificates
-
-<div align="center">
-  <img src="./images/Certificate1.png" width="32%" alt="Course certificate Full-Css">
-  <img src="./images/Certificate2.png" width="32%" alt="Course certificate Git & Github">
-  <img src="./images/Certificate1.png" width="32%" alt="Course certificate ...">
-  
-</div>
-
----
-
 ## 📈 Github Stats & Activity Graph
 
 <div align="center">
@@ -111,6 +100,17 @@ In an era where AI writes code, it’s important to think not only about how it 
 </a>
   
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
+
+---
+
+## 🎓 Certificates
+
+<div align="center">
+  <img src="./images/Certificate1.png" width="32%" alt="Course certificate Full-Css">
+  <img src="./images/Certificate2.png" width="32%" alt="Course certificate Git & Github">
+  <img src="./images/Certificate1.png" width="32%" alt="Course certificate ...">
+  
 </div>
 
 ---
