@@ -84,13 +84,13 @@ In an era where AI writes code, it’s important to think not only about how it 
 </div>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=000000&border_color=000000&title_color=FFE600&icon_color=DBB7FF&text_color=ffffff"
-    width="57%"
-  />
+   
+ <img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=000000&border_color=000000&title_color=FFE600&icon_color=DBB7FF&text_color=ffffff" width="58%"
+ />
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=highcontrast"
-    width="41%"
+    width="40%"
   />
 </div>
 
