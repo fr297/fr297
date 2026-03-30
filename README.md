@@ -105,10 +105,10 @@ YAML          8 mins                ░░░░░░░░░░░░░░�
 
 <div align="center">
  <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=000000&title_color=FFE600&icon_color=DBB7FF&text_color=ffffff&border_color=000000" width="58%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=00000f&title_color=FFE600&icon_color=FF0077&text_color=ffffff&hide_border=true" width="58%"
  />
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=highcontrast"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=merko"
     width="39%"
   />
 </div>
