@@ -62,8 +62,9 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ### AI & Neural Networks
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-0B3D2E?style=for-the-badge&logo=x&logoColor=white)
 
 ### CMS & Web Builders
